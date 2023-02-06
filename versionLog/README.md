@@ -1,6 +1,6 @@
 # NeuroLang Compiler Version Log
 
-This is a document, containing a list of changes in compiler version.
+This document contains a list of changes in compiler versions
 
 # v0.1
 
