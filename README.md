@@ -58,13 +58,13 @@ syntax and code goes here
 
 ## Example applications
 
-- [Simple Classifier](https://github.com/DippyArtu/neurolang/codeExamples/simpleClassifier/) — a demonstration of an intent classification and processing program
+- [Simple Classifier](https://github.com/DippyArtu/neurolang/tree/main/codeExamples/simpleClassifier) — a demonstration of an intent classification and processing program
 
 # Compiler versions
 
-💡 **[Version Update Log](https://github.com/DippyArtu/neurolang/versionLog)**
+💡 **[Version Update Log](https://github.com/DippyArtu/neurolang/tree/main/versionLog)**
 
 ---
 |**Version**| **Description** |
 |--|--|
-| v0.1 | Proof of concept version |
+| [v0.1](https://github.com/DippyArtu/neurolang/blob/main/compiler/NeuroLang%20v0.1) | Proof of concept version |
