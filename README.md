@@ -1,6 +1,3 @@
-
-NeuroLang
-
 ![NeuroLang](https://d2w9rnfcy7mm78.cloudfront.net/20246949/original_6cccd63dd5972a136846dd370e70b741.png?1675709623?bc=0)
 ## NeuroLang — neural network programming language
 
