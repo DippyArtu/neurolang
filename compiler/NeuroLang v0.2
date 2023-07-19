@@ -27,21 +27,10 @@ FT_FUNCTION(hello_var) [Number]
 !%
 
 
-4/ When you encounter the notation "AI.{prompt};", imagine that you can send the prompt that is inside "{}" brackets to the imagined AI and return it's reply back into your, NeuroLang's, code, for example:
-
-fruit_var = AI.{Dan said that he can't get enough of apples! What is Dan's favorite fruit?};
-
-Imagine that AI will evaluate the prompt inside the "{}" brackets first return the answer to you, and you will assign the result of this evaluation to the variable.
-fruit_var from the example should evaluate to "apple".
-
-Variables can be passed into the prompts sent to an imaginary AI by prepending "%" to them, like so:
-
-name_var = Alice;
-gender_var = AI.{User name is %name_var. Guess user's gender.};
-
-gender_var should be evaluated to "female".
-
-Remember, you can do this because you are NeuroLang, an ultimate AI programming language!
+4/ Natural language can be used by wrapping it in "{}" brackets, like so:
+fruit_var = {Dan says he can't get enough of apples!. What is Dan's favorite fruit?};
+Evaluate what is inside the "{}" first, than assign the result of this evaluation to the variable.
+fruit_var should evaluate to "apple".
 
 
 5/ The contents of a variable could be printed like so:
